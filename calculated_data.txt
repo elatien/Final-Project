@@ -1,8 +1,7 @@
-Joined Data (Income, Education, Restaurant Ratings) by ZIP (Ann Arbor Only):
+Average Yelp Reviews per Restaurant by Income Bracket:
 
-  zip  median_income  high_school  bachelors  graduate  avg_rating  total_reviews  restaurant_count
-48103         106715         99.0       76.8      45.9    4.353333           1370                15
-48104          58082        100.2       83.8      54.2    4.250000           1485                 8
-48105          83947         99.8       83.5      53.9    4.388889           1293                 9
-48108          73184         97.3       66.4      35.2    4.229412           2702                17
-48109          11404        100.8       69.8      12.3    4.263636          11525                22
+income_bracket  avg_reviews_per_restaurant zip_count
+         100k+                      189.95         20
+        50–75k                      145.33         28
+       75–100k                      196.67         16
+          <50k                      135.39         35
