@@ -1,7 +1,0 @@
-Average Yelp Reviews per Restaurant by Income Bracket:
-
-income_bracket  avg_reviews_per_restaurant zip_count
-         100k+                      189.95         20
-        50–75k                      145.33         28
-       75–100k                      196.67         16
-          <50k                      135.39         35
